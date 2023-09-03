@@ -30,6 +30,11 @@ FLock.io is a groundbreaking platform that addresses the longstanding dilemma be
 | ![Logo-FLock io-Black-White background2](https://github.com/FLock-io/design-guide/assets/5778228/3af32517-fe4d-4839-bae1-ec8ce598f098) | ![Logo-FLock io-Black-Black background](https://github.com/FLock-io/design-guide/assets/5778228/8f4a624c-5cf1-462d-a101-cf6439ffbf2a) | ![Logo-FLock io-Color-Black background-alt](https://github.com/FLock-io/design-guide/assets/5778228/cbb0b6ab-2807-4b21-9a98-30962ad9e9e6) |
 | ![Logo-FLock io-Color-Black background-alt2](https://github.com/FLock-io/design-guide/assets/5778228/d66e7c90-b501-4ca3-9632-1f989457ffd4) | | |
 
+Application LOGO packs:
+
+[Icon Shape.zip](https://github.com/FLock-io/design-guide/files/12507889/Icon.Shape.zip)
+
+
 ## 🎨 Colors
 
 | | | |
